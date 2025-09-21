@@ -1,0 +1,37 @@
+h1.bluet,
+h3.bluep {
+  color: blue;
+}
+h1.redt,
+h3.redp {
+  color: red;
+}
+h3.reslt {
+  color: darkcyan;
+  font-style: italic;
+}
+h2.title {
+  color: cadetblue;
+  font-style: italic;
+  width: 8cm;
+}
+button {
+  color: chocolate;
+  width: 3cm;
+  height: 1cm;
+  background-color: darkblue;
+  border: darkcyan;
+  font-weight: bold;
+  font-family: "Lucida Sans";
+  font-size: 23px;
+  border-radius: 2cm;
+}
+hr {
+  line-height: 25px;
+  width: 7cm;
+}
+body {
+  align-items: center;
+  min-width: 7cm;
+  min-height: 4cm;
+}
