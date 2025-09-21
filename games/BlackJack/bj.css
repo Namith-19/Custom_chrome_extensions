@@ -1,0 +1,28 @@
+h1{
+    color: rgb(97, 158, 212);
+}
+h3{
+    color: brown;
+}
+h2{
+    color: darkcyan;
+    font-style:italic;
+}
+button{
+    color: chocolate;
+    width: 3cm;
+    height: 1cm;
+    background-color: darkblue;
+    border: darkcyan;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+    font-size: 23px;
+    border-radius: 2cm;
+}
+hr{
+    line-height: 25px;
+    width: 7cm;
+}
+body{
+    align-items: center;
+}

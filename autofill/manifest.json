@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "autofill",
+  "permissions": ["tabs"],
+  "content_scripts": [
+    {
+      "js": ["fill.js"],
+      "matches": [
+        "https://online.tirupatibalaji.ap.gov.in/pilgrim-details?flow=sed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "rps",
+  "action": {
+    "default_popup": "rps.htm"
+  }
+}
